@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfSoft.WebAPIs", "ProfSof
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfSoft.AppForms", "ProfSoft.AppForms\ProfSoft.AppForms.csproj", "{268AB971-807D-4BE1-913A-9F6DEC4D8CD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfSoft.DTO", "ProfSoft.DTO\ProfSoft.DTO.csproj", "{B3131993-7E87-484D-97C3-66CFDEA4661E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{268AB971-807D-4BE1-913A-9F6DEC4D8CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{268AB971-807D-4BE1-913A-9F6DEC4D8CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{268AB971-807D-4BE1-913A-9F6DEC4D8CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3131993-7E87-484D-97C3-66CFDEA4661E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3131993-7E87-484D-97C3-66CFDEA4661E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3131993-7E87-484D-97C3-66CFDEA4661E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3131993-7E87-484D-97C3-66CFDEA4661E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
