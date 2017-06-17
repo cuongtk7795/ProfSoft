@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfSoft.AppForms", "ProfSo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfSoft.DTO", "ProfSoft.DTO\ProfSoft.DTO.csproj", "{B3131993-7E87-484D-97C3-66CFDEA4661E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfSoft.Libraries", "ProfSoft.Libraries\ProfSoft.Libraries.csproj", "{D046C15F-35F4-4DF4-AA9E-C6051F65B1D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B3131993-7E87-484D-97C3-66CFDEA4661E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3131993-7E87-484D-97C3-66CFDEA4661E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3131993-7E87-484D-97C3-66CFDEA4661E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D046C15F-35F4-4DF4-AA9E-C6051F65B1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D046C15F-35F4-4DF4-AA9E-C6051F65B1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D046C15F-35F4-4DF4-AA9E-C6051F65B1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D046C15F-35F4-4DF4-AA9E-C6051F65B1D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
